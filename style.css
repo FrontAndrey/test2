@@ -1,0 +1,28 @@
+body {
+    background-color: aqua;
+}
+p {
+    text-align: center;
+}
+button {
+    border-radius: 15px;
+    color: brown;
+    background-color: violet;
+    
+}
+button:hover {
+   background-color: aquamarine;
+}
+button:active {
+    background-color: antiquewhite;
+    opacity: .8;
+}
+a {
+    text-decoration: none;
+    border: 1px solid red;
+    border-radius: 10px;
+    height: 40px;
+}
+.but {
+    background-color: black;
+}
